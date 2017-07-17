@@ -1,0 +1,51 @@
+header{
+	background-color: black;
+	width: 100%;
+	padding:10px 0;
+	margin: 10px 0 5px 0;
+	font-family: sans-serif;
+	letter-spacing:5px;
+	text-align: center;
+	color: white;
+}
+nav{
+	background-color: #aaa;
+	width: 25%;
+	padding:10px 0;
+	margin: 5px 0 10px 0;
+	float: left;
+	height: 380px;
+	line-height: 35px;
+}
+section{
+	background-color: gray;
+	width: 75%;
+	padding:10px 0;
+	margin: 5px 0 10px 0;
+	float: left;
+	height: 380px;
+	line-height: 35px;
+}
+footer{	
+	background-color: black;
+	width: 100%;
+	padding:10px 0;
+	margin: 10px 0;
+	font-family: sans-serif;
+	clear: both;
+	letter-spacing:5px;
+	text-align: center;
+	color: white;
+}
+details{
+	background-color: black;
+	color: white;
+	width: 100%;
+	padding:10px 0;
+	margin: 10px 0;
+}
+p{
+	line-height: 12px;
+	font-size: 10px;
+}
+
